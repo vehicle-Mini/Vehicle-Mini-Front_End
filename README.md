@@ -11,4 +11,4 @@ Delating Model to Confirm the delate from user when user Clicks Delate button
 
 ## N.B: I attach the Demo video for the application at the root folder of this application
 
-## If you are willing i can make it advanced b/c it is only about 4 - 5 hr work
+## NB: If you are willing i can make it advanced b/c it is only about 4 - 5 hr work
