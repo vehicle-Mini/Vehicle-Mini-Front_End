@@ -8,3 +8,5 @@ Add Vehicle page used to add the new vehicles with fields of Vehicle Name, Model
 update Vehicle page to display the current Detail of the vehicle data and used to update all filds mentiond in my above Add new Vehicle page with vaidation from back end for empty fields , same plate number / Already registerd plate number capacity
 
 Delating Model to Confirm the delate from user when user Clicks Delate button
+
+## N.B: I attach the Demo video for the application at the root folder of this application
