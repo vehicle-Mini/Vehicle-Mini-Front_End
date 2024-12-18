@@ -13,6 +13,7 @@
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
     "@fortawesome/free-solid-svg-icons": "^6.6.0",
     "@fortawesome/react-fontawesome": "^0.2.2",
+    "@reduxjs/toolkit": "^2.5.0",
     "axios": "^1.7.3",
     "bootstrap": "^5.3.3",
     "date-fns": "^4.1.0",
@@ -21,6 +22,7 @@
     "react-bootstrap-icons": "^1.11.4",
     "react-cookie": "^7.2.2",
     "react-dom": "^18.3.1",
+    "react-redux": "^9.2.0",
     "react-router-dom": "^6.26.0",
     "react-toastify": "^10.0.6"
   },
